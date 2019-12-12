@@ -30,4 +30,3 @@ def find_the_cheese(array)
   array.include?("gouda")
   array.include?("camembert")
 end 
-end 
