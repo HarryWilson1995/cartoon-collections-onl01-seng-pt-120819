@@ -25,3 +25,8 @@ end
 #     cheese_types.include?(type)
 #   end 
 # end
+def find_the cheese(array)
+  array.include?("cheddar")
+  array.include?("gouda")
+  array.include?("camembert")
+end 
